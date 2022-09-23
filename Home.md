@@ -23,3 +23,5 @@ Welcome to the Requests wiki!
 6. Each item in the RFC workplan is converted to issues and assigned to both the job Repository and the job Github Project.
 7. Each issue is assigned to the doer or their colleagues if working as a team.
 8. The needer and the doer assign relevant issues to Github Milestones according to the OKRs or KPIs of the project or organization.
+9. The doer does the work and adds commits to one PR per issue/task.
+10. The admin/client reviews the PR, asks for changes if needed before signing it off by merging the PR. Merging the PR moves the issue in the Done section on the Project Board
